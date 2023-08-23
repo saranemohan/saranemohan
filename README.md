@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Open source project**
 
-- 👨‍💻 All of my projects are available at [https://saranemohan.com](saranemohan.com)
+- 👨‍💻 All of my projects are available at [saranemohan.com](https://saranemohan.com)
 
 - 💬 Ask me about **DevOps, Software architecture, NodeJS & NextJS**
 
 - 📫 How to reach me **saran.e.mohan@gmail.com**
 
-- 📄 Know about my experiences [https://saranemohan.com](saranemohan.com)
+- 📄 Know about my experiences [saranemohan.com](https://saranemohan.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
