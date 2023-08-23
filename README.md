@@ -43,13 +43,15 @@
 <p>&nbsp;</p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=saranemohan&show_icons=true&locale=en" alt="saranemohan" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saranemohan&" alt="saranemohan" />
 </p>
 <p>&nbsp;</p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saranemohan&" alt="saranemohan" />
+</p>
 <p>&nbsp;</p>
-<br/><br/>
-<p> 
+<p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saranemohan" alt="saranemohan" /></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranemohan&show_icons=true&locale=en&layout=compact" alt="saranemohan" />
+</p>
+<p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranemohan&show_icons=true&locale=en&layout=compact" alt="saranemohan" />
 </p>
 
