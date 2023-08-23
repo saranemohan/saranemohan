@@ -19,14 +19,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/saranemohan" target="blank"><img align="center" src="https://static.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" alt="saranemohan" height="30" width="40" /></a>
+<a href="https://twitter.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saranemohan" height="30" width="40" /></a>
+<a href="https://fb.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saranemohan" height="30" width="40" /></a>
+
+<!--  -->
+
 <a href="https://codepen.io/saran-e-mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://dev.to/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saranemohan" height="30" width="40" /></a>
-<a href="https://twitter.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saranemohan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://kaggle.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saranemohan" height="30" width="40" /></a>
-<a href="https://fb.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://instagram.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://medium.com/@saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saranemohan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saranemohan" height="30" width="40" /></a>
