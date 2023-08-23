@@ -11,17 +11,17 @@
 
 - 👯 I’m looking to collaborate on **Open source project**
 
-- 👨‍💻 All of my projects are available at [saranemohan.com](saranemohan.com)
+- 👨‍💻 All of my projects are available at [https://saranemohan.com](saranemohan.com)
 
 - 💬 Ask me about **DevOps, Software architecture, NodeJS & NextJS**
 
 - 📫 How to reach me **saran.e.mohan@gmail.com**
 
-- 📄 Know about my experiences [saranemohan.com](saranemohan.com)
+- 📄 Know about my experiences [https://saranemohan.com](saranemohan.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saranemohan" height="30" width="40" /></a>
+<a href="https://codepen.io/saran-e-mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://dev.to/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://twitter.com/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saranemohan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saranemohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saranemohan" height="30" width="40" /></a>
