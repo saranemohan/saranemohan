@@ -3,18 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranemohan&label=Profile%20views&color=0e75b6&style=flat" alt="saranemohan" /> </p>
 
-- :dart: **Current Focus :** Implement highly scalable software architecture and development of Danti, an advanced wealth-tech platform for high-net-worth individuals.
-
-- 🌱 **Currently learning path :** Deepening the expertise in cybersecurity, Exploring VR development, blockchain technology.
-
+- 🎯 **Current Focus :** Implementing highly scalable software architecture and development of an advanced wealth-tech platform exclusively for high-net-worth individuals.
+- 🌱 **Current learning path :** Deepening the expertise in cybersecurity, exploring VR development, blockchain technology.
 - 👯 **Looking to collaborate :** Open to contributing to open-source projects.
-
-<!-- - 👨‍💻 All of my projects are available at [saranemohan.com](https://saranemohan.com) -->
-
 - 💬 **Topics I love :** DevOps, Software architecture, Node JS, React JS, NextJS, Flutter, Laravel, GoLang, AWS
-
+- 📎 **Connect with me** [www.linkedin.com/in/saranemohan](https://www.linkedin.com/in/saranemohan)
+- 📝 **Blog:** Check my articles - [saranemohan.medium.com](https://saranemohan.medium.com/)
 - 📫 How to reach me **saran.e.mohan@gmail.com**
-
 - 📄 Know about me - [saranemohan.com](https://saranemohan.com)
 
 <h3 align="left">Connect with me:</h3>
