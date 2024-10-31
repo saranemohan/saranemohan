@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranemohan&label=Profile%20views&color=0e75b6&style=flat" alt="saranemohan" /> </p>
 
-- 🔭 I’m currently working on **SAAS Product architecture & Car Leasing app**
+- :dart: **Current Focus :** Implement highly scalable software architecture and development of Danti, an advanced wealth-tech platform for high-net-worth individuals.
 
-- 🌱 I’m currently learning **VR with godot & unity, Blockchain**
+- 🌱 **Currently learning path :** Deepening the expertise in cybersecurity, Exploring VR development, blockchain technology.
 
-- 👯 I’m looking to collaborate on **Open source project**
+- 👯 **Looking to collaborate :** Open to contributing to open-source projects.
 
 <!-- - 👨‍💻 All of my projects are available at [saranemohan.com](https://saranemohan.com) -->
 
-- 💬 Ask me about **DevOps, Software architecture, NodeJS & NextJS**
+- 💬 **Topics I love :** DevOps, Software architecture, Node JS, React JS, NextJS, Flutter, Laravel, GoLang, AWS
 
 - 📫 How to reach me **saran.e.mohan@gmail.com**
 
